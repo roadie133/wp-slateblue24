@@ -1,4 +1,3 @@
 wp-etal
 =======
-I have hope for need of this file soon! Currently this is nothing more than a clone of Clint Berrys' roots-bootstrap
-shell scripting pull.
+currently there is nothing here. I am working on a wordpress 24 column fluid theme and hope to commit within a few days.
